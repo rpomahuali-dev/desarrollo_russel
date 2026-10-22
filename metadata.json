@@ -1,0 +1,6 @@
+{
+  "name": "Administrador de archivos",
+  "description": "Sistema de gestión de archivos técnicos, planos, estudios y trámites mineros estilo explorador de Windows con control de cuotas, alertas de vencimiento, papelera y auditoría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
